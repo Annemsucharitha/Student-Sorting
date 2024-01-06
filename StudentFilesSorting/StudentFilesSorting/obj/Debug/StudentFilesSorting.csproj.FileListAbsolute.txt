@@ -1,0 +1,7 @@
+C:\Users\Annem sucharitha\MPP\StudentFilesSorting\StudentFilesSorting\bin\Debug\StudentFilesSorting.exe.config
+C:\Users\Annem sucharitha\MPP\StudentFilesSorting\StudentFilesSorting\bin\Debug\StudentFilesSorting.exe
+C:\Users\Annem sucharitha\MPP\StudentFilesSorting\StudentFilesSorting\bin\Debug\StudentFilesSorting.pdb
+C:\Users\Annem sucharitha\MPP\StudentFilesSorting\StudentFilesSorting\obj\Debug\StudentFilesSorting.csproj.AssemblyReference.cache
+C:\Users\Annem sucharitha\MPP\StudentFilesSorting\StudentFilesSorting\obj\Debug\StudentFilesSorting.csproj.CoreCompileInputs.cache
+C:\Users\Annem sucharitha\MPP\StudentFilesSorting\StudentFilesSorting\obj\Debug\StudentFilesSorting.exe
+C:\Users\Annem sucharitha\MPP\StudentFilesSorting\StudentFilesSorting\obj\Debug\StudentFilesSorting.pdb
